@@ -1,2 +1,2 @@
 # Urna-Eletronica
- Urna eletrônica e votação 
+ Urna eletrônica e votação finalizada
